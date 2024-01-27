@@ -1,6 +1,6 @@
 # Hello Professor, Good day to you!
 ## Homework1 Web Systems Development
-## Instructions
+### Instructions
 1. Install WSL2
 2. Create a GitHub account
 3. Create a Project folder > Homework1 folder
