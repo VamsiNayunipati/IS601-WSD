@@ -1,8 +1,8 @@
 # Homework1 Web Systems Development
 ## Instructions
-Install WSL2
-Create a GitHub account
-Create a Project folder > Homework1 folder
-Do a branch
-Merge locally as well as on GitHub.
+1. Install WSL2
+2. Create a GitHub account
+3. Create a Project folder > Homework1 folder
+4. Do a branch
+5. Merge locally as well as on GitHub.
 
